@@ -18,10 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="f804532f615f3fc62f3df08065f35d300ce89c3f"
-            />
+            android:value="f804532f615f3fc62f3df08065f35d300ce89c3f" />
+
+        <activity android:name=".VerifiyItActivity"></activity>
     </application>
 
 </manifest>

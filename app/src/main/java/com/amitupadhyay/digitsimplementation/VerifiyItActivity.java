@@ -42,6 +42,5 @@ public class VerifiyItActivity extends AppCompatActivity {
                 Log.d("Digits", "Sign in with Digits failure", exception);
             }
         });
-
     }
 }
